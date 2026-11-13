@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Латте с рисунком на пенке">
+  <rect width="600" height="450" fill="#e9d8c4"/>
+  <ellipse cx="300" cy="250" rx="210" ry="150" fill="#f6efe6"/>
+  <ellipse cx="300" cy="250" rx="185" ry="128" fill="#d9c6b0"/>
+  <path d="M455 240c60-10 70 60 10 70" fill="none" stroke="#f6efe6" stroke-width="22" stroke-linecap="round"/>
+  <ellipse cx="300" cy="235" rx="140" ry="95" fill="#fff"/>
+  <ellipse cx="300" cy="235" rx="128" ry="85" fill="#a8683a"/>
+  <path d="M300 300c-55-25-80-60-60-90 15-22 45-15 60 10 15-25 45-32 60-10 20 30-5 65-60 90z" fill="#f3e3cf"/>
+  <path d="M300 300v-60" stroke="#a8683a" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".7">
+    <path d="M260 120c-15-20 15-30 0-55"/><path d="M300 110c-15-20 15-30 0-55"/><path d="M340 120c-15-20 15-30 0-55"/>
+  </g>
+</svg>

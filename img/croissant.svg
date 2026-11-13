@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Круассан на тарелке">
+  <rect width="600" height="450" fill="#c9dfe0"/>
+  <ellipse cx="300" cy="300" rx="240" ry="80" fill="#f6efe6"/>
+  <ellipse cx="300" cy="295" rx="200" ry="60" fill="#e8ddd0"/>
+  <g stroke="#8a4f1f" stroke-width="5" stroke-linejoin="round">
+    <path d="M120 270c10-60 50-80 80-70l-10 90z" fill="#d18b41"/>
+    <path d="M480 270c-10-60-50-80-80-70l10 90z" fill="#d18b41"/>
+    <path d="M190 290l10-100c30-25 60-30 70-28l-5 135z" fill="#e3a352"/>
+    <path d="M410 290l-10-100c-30-25-60-30-70-28l5 135z" fill="#e3a352"/>
+    <path d="M265 300l5-140c20-8 40-8 60 0l5 140c-25 10-45 10-70 0z" fill="#efb866"/>
+  </g>
+</svg>
