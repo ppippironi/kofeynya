@@ -114,3 +114,9 @@ p + p { margin-top: 12px; }
   .footer__inner { flex-direction: column; text-align: center; }
   html { scroll-padding-top: 100px; }
 }
+
+.author {
+  front-size: 0.85rem;
+  opacity: 0.8;
+  margin-top: 8px;
+}
